@@ -1,2 +1,0 @@
-# Pruebas
-Descripción pruebas.
